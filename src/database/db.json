@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Rohit Sharma",
+      "username": "hitman",
+      "email": "rohitsharma@gmail.com",
+      "phone_number": 8055626946,
+      "id": 1
+    },
+    {
+      "name": "Virat Kohli",
+      "username": "kingkohli",
+      "email": "viratkohli@gmail.com",
+      "phone_number": "667856379",
+      "id": 2
+    },
+    {
+      "name": "Yuzvendra Chahal",
+      "username": "yuzi",
+      "email": "chahalyuzi@gmail.com",
+      "phone_number": "9908336444",
+      "id": 5
+    },
+    {
+      "name": "Zaheer Khan",
+      "username": "zaheer",
+      "email": "zaheerkhan@gmail.com",
+      "phone_number": "99393464994",
+      "id": 6
+    },
+    {
+      "name": "Yuvraj Singh",
+      "username": "yuvi",
+      "email": "yuvrajsingh@gmail.com",
+      "phone_number": "9938363548",
+      "id": 7
+    }
+  ]
+}

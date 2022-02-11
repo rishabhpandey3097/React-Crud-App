@@ -1,0 +1,8 @@
+.table_container {
+  width: 80% !important;
+  margin: 20px auto !important;
+}
+
+.table-head {
+  background-color: rgb(149, 201, 28) !important;
+}

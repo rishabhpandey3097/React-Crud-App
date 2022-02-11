@@ -1,0 +1,9 @@
+.not-found {
+  height: 80vh;
+  display: grid;
+  place-items: center;
+}
+
+.not-found img {
+  transform: scale(0.7);
+}
